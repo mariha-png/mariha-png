@@ -73,14 +73,13 @@ fun_fact: "I turn coffee into interfaces ☕"
 ## 📊&nbsp; GitHub Stats
 
 <p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=mariha-png&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A855F7&icon_color=C084FC&text_color=c9d1d9"/>
+<img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mariha-png&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A855F7&icon_color=C084FC&text_color=c9d1d9"/>
 <img height="165" src="https://streak-stats.demolab.com?user=mariha-png&theme=tokyonight&hide_border=true&background=0d1117&ring=A855F7&fire=C084FC&currStreakLabel=A855F7"/>
 </p>
 
 <p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariha-png&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A855F7&text_color=c9d1d9"/>
+<img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mariha-png&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A855F7&text_color=c9d1d9"/>
 </p>
-
 <br>
 
 ## 🚀&nbsp; Featured Projects
