@@ -1,42 +1,30 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=8A2BE2,9370DB,C084FC&text=Mariha%20Ashfaq&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
+# 💜 Hi, I'm Mariha Ashfaq
 
-# 💜 Frontend Developer | Software Engineering Student
+### Frontend Developer • Angular • Flutter • Laravel
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=C084FC&center=true&width=650&lines=Welcome+to+My+GitHub!;Angular+Developer;Flutter+Developer;Laravel+Developer;Building+Modern+Applications+✨"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=A855F7&center=true&width=600&lines=Software+Engineering+Student;Frontend+Developer;Angular+%7C+Flutter+%7C+Laravel;Always+Learning+New+Things+✨"/>
 
 </div>
 
 ---
 
-# 👩‍💻 About Me
+## 👩‍💻 About Me
 
-```yaml
-Name: Mariha Ashfaq
-Role: Frontend Developer
-Education: Software Engineering Student
-Country: Pakistan
+🎓 Software Engineering Student
 
-Skills:
-  - Angular
-  - Flutter
-  - Laravel
-  - HTML
-  - CSS
-  - Bootstrap
-  - JavaScript
-  - MySQL
+💜 Passionate Frontend Developer
 
-Currently Learning:
-  - Advanced Angular
-  - Flutter
-  - UI/UX Design
-```
+🚀 Building Modern Web & Mobile Applications
+
+🌱 Currently Learning Advanced Angular & Flutter
+
+📍 Pakistan
 
 ---
 
-# 💻 Tech Stack
+## 💻 Tech Stack
 
 <p align="center">
 
@@ -48,84 +36,81 @@ Currently Learning:
 
 # 📊 Developer Dashboard
 
-<p align="center">
+<div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mariha-png&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=mariha-png&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15"/>
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=mariha-png&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://streak-stats.demolab.com?user=mariha-png&theme=tokyonight&hide_border=true&border_radius=15"/>
 
-</p>
-
-<p align="center">
-
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariha-png&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
+</div>
 
 ---
 
-# 📈 Contribution Graph
+## 📈 Most Used Languages
 
-<p align="center">
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariha-png&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=mariha-png&theme=tokyo-night"/>
 
-</p>
+</div>
 
 ---
 
-# 🚀 Featured Projects
+## 🏆 GitHub Trophies
 
-| Project | Technology |
-|---------|------------|
-| 🌍 TravelEase | Flutter + Firebase |
-| 💼 Job Portal | Laravel + MySQL |
-| 🎨 Online Art Gallery | ASP.NET MVC |
-| ⚡ Angular CRUD | Angular |
-| 📚 Book Store | Flutter |
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=mariha-png&theme=tokyonight&no-frame=true&row=1&column=6"/>
+
+</div>
 
 ---
 
-# 🏆 GitHub Achievements
+## 🚀 Featured Projects
 
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=mariha-png&theme=tokyonight&no-frame=true&row=2&column=3"/>
-
-</p>
-
----
-
-# 🌟 Profile Views
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=mariha-png&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
-
-</p>
+- 🌍 TravelEase – Flutter + Firebase
+- 💼 Laravel Job Portal
+- 🎨 Online Art Gallery (.NET MVC)
+- ⚡ Angular CRUD Application
+- 📚 Flutter Book Store
+- ☕ Coffee Shop UI
 
 ---
 
-# 📫 Connect With Me
+## 📫 Connect With Me
 
-<p align="center">
+<div align="center">
 
-<a href="https://linkedin.com">
-<img src="https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://github.com/mariha-png">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="mailto:your@email.com">
-<img src="https://img.shields.io/badge/Gmail-9370DB?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="mailto:your-email@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-</p>
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
 <div align="center">
 
-## 💜 "Code • Learn • Build • Repeat"
+### 💜 Thanks for Visiting My Profile 💜
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=8A2BE2,C084FC,9370DB&section=footer"/>
+![](https://capsule-render.vercel.app/api?type=waving&color=7F00FF,9F7AEA,C084FC&height=120&section=footer)
 
 </div>
