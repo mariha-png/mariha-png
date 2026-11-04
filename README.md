@@ -2,7 +2,7 @@
 
 <img src="assets/header.svg" width="100%" alt="Mariha Ashfaq — Frontend Developer"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=20&duration=2800&pause=1000&color=A855F7&center=true&vCenter=true&width=620&lines=Crafting+clean%2C+modern+interfaces;Angular+%C2%B7+Flutter+%C2%B7+Laravel;Turning+ideas+into+pixel-perfect+UIs"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=20&duration=2800&pause=1000&color=A855F7&center=true&vCenter=true&width=620&lines=Crafting+clean%2C+modern+interfaces;Angular+%C2%B7+Flutter+%C2%B7+MERN+Stack;Turning+ideas+into+pixel-perfect+UIs"/>
 
 <br>
 
@@ -23,7 +23,7 @@
 I'm a **Software Engineering student** who loves turning design into smooth, responsive interfaces. I care about spacing, typography and the small details that make an app feel *premium*.
 
 - Building sleek UIs with **Angular** and **Flutter**
-- Learning backend fundamentals with **Laravel** and **Firebase**
+- Building full-stack apps with the **MERN stack** (MongoDB, Express, React, Node.js)
 - Always shipping a side project
 - Ask me about frontend, Flutter and UI design
 
@@ -49,7 +49,7 @@ fun_fact: "I turn coffee into interfaces"
 <img src="assets/t-stack.svg" width="100%" alt="Tech Stack"/>
 
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,angular,flutter,dart,laravel,mysql,firebase,git,github,vscode&perline=7&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,angular,flutter,dart,nodejs,express,mongodb,firebase,git,github,vscode&perline=8&theme=dark"/>
 </a>
 
 <img src="assets/divider.svg" width="100%"/>
