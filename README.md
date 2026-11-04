@@ -66,16 +66,16 @@ fun_fact: "I turn coffee into interfaces"
 
 <table>
 <tr>
-<td><a href="https://github.com/mariha-png/TravelEase"><img src="assets/card-travelease.svg" width="480"/></a></td>
-<td><a href="https://github.com/mariha-png/Job-Portal"><img src="assets/card-job-portal.svg" width="480"/></a></td>
+<td><a href="https://github.com/mariha-png?tab=repositories"><img src="assets/card-travelease.svg" width="480"/></a></td>
+<td><a href="https://github.com/mariha-png?tab=repositories"><img src="assets/card-job-portal.svg" width="480"/></a></td>
 </tr>
 <tr>
-<td><a href="https://github.com/mariha-png/Online-Art-Gallery"><img src="assets/card-art-gallery.svg" width="480"/></a></td>
-<td><a href="https://github.com/mariha-png/Angular-CRUD"><img src="assets/card-angular-crud.svg" width="480"/></a></td>
+<td><a href="https://github.com/mariha-png?tab=repositories"><img src="assets/card-art-gallery.svg" width="480"/></a></td>
+<td><a href="https://github.com/mariha-png?tab=repositories"><img src="assets/card-angular-crud.svg" width="480"/></a></td>
 </tr>
 <tr>
-<td><a href="https://github.com/mariha-png/Flutter-Book-Store"><img src="assets/card-book-store.svg" width="480"/></a></td>
-<td><a href="https://github.com/mariha-png/Coffee-Shop-UI"><img src="assets/card-coffee-shop.svg" width="480"/></a></td>
+<td><a href="https://github.com/mariha-png?tab=repositories"><img src="assets/card-book-store.svg" width="480"/></a></td>
+<td><a href="https://github.com/mariha-png?tab=repositories"><img src="assets/card-coffee-shop.svg" width="480"/></a></td>
 </tr>
 </table>
 
@@ -90,7 +90,6 @@ fun_fact: "I turn coffee into interfaces"
 <img src="assets/t-connect.svg" width="100%" alt="Let's Connect"/>
 
 <a href="https://github.com/mariha-png"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:marihaashfaq4@gmail.com"><img src="https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 <br><br>
